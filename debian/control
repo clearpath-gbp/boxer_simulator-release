@@ -1,0 +1,12 @@
+Source: ros-noetic-boxer-simulator
+Section: misc
+Priority: optional
+Maintainer: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: http://www.clearpathrobotics.com
+Standards-Version: 3.9.2
+
+Package: ros-noetic-boxer-simulator
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-boxer-gazebo
+Description: Metapackage encompassing simulation components for BOXER.
