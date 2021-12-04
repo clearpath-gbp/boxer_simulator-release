@@ -1,0 +1,55 @@
+ros-noetic-boxer-gazebo (0.1.1-2focal) focal; urgency=high
+
+  * Rename BOXER_SERIAL_NO to ROS_ROBOT_SERIAL_NO to match with incoming changes to the ISO
+  * Contributors: Chris Iverach-Brereton
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Tue, 30 Nov 2021 05:00:00 -0000
+
+ros-noetic-boxer-gazebo (0.1.0-2focal) focal; urgency=high
+
+  * Initial commit of for Noetic
+  * Contributors: Chris Iverach-Brereton
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Mon, 08 Nov 2021 05:00:00 -0000
+
+ros-noetic-boxer-gazebo (0.0.6-2focal) focal; urgency=high
+
+  * Cleaned up launches, model colours, and camera location
+  * Contributors: Dave Niewinski
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Thu, 15 Nov 2018 05:00:00 -0000
+
+ros-noetic-boxer-gazebo (0.0.5-2focal) focal; urgency=high
+
+  * Removed sonar visualization
+  * Contributors: Dave Niewinski
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Wed, 07 Nov 2018 05:00:00 -0000
+
+ros-noetic-boxer-gazebo (0.0.4-2focal) focal; urgency=high
+
+  * Fixed install
+  * Contributors: Dave Niewinski
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Tue, 06 Nov 2018 05:00:00 -0000
+
+ros-noetic-boxer-gazebo (0.0.3-2focal) focal; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Mon, 05 Nov 2018 05:00:00 -0000
+
+ros-noetic-boxer-gazebo (0.0.2-2focal) focal; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Mon, 05 Nov 2018 05:00:00 -0000
+
+ros-noetic-boxer-gazebo (0.0.1-2focal) focal; urgency=high
+
+  * Initial ish commit
+  * Contributors: Dave Niewinski
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Wed, 31 Oct 2018 04:00:00 -0000
+
+
